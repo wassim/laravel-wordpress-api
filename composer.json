@@ -1,17 +1,17 @@
 {
-    "name": "rickwest/laravel-wordpress-api",
+    "name": "wassim/laravel-wordpress-api",
     "description": "A Laravel read-only client for the WordPress REST API (v2)",
     "keywords": [
         "wordpress",
         "laravel",
         "api"
     ],
-    "homepage": "https://github.com/rickwest/laravel-wordpress-api",
+    "homepage": "https://github.com/wassim/laravel-wordpress-api",
     "license": "MIT",
     "authors": [
         {
-            "name": "Rick West",
-            "email": "rickwestdev@gmail.com",
+            "name": "Wassim",
+            "email": "wassimcodes@gmail.com",
             "role": "Developer"
         }
     ],
